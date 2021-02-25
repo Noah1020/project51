@@ -1,0 +1,66 @@
+.alot{
+
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+
+ background-color: rgb(0, 0, 0);
+
+}
+
+
+.header{
+    background-color: black;
+
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    
+}
+
+.ah1{
+    margin-bottom: 0%;
+    color: white;
+    text-align: center;
+}
+
+
+.ah2{
+    margin-top: 0%;
+    color: white;
+    text-align: center;
+}
+
+
+.camel{
+    background-color: #d41919;
+}
+
+.chameleon{
+
+    background-color: #1ac436;
+}
+
+body{
+
+    background-color: #2430d6;
+}
+
+.teddy{
+    background-color: rgb(194, 35, 173);
+}
+
+.pigeon{
+    background-color: rgb(176, 230, 29);
+}
+
+.panda{
+    background-color: rgb(122, 13, 27);
+}
+
+.cicada{
+    background-color: rgb(181, 206, 92);
+}
